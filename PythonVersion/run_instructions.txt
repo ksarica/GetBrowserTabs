@@ -1,0 +1,20 @@
+BEFORE YOU USE THIS PROGRAM 
+
+=> This program assumes that you have opened at least one web browser and it should be one of the 2 apps you last used. 
+=> Since it uses ALT + TAB to switch to web browser.
+
+=> Program uses delay parameter to get URL address properly, you can adjust the value as you want. 
+=> If you have encountered problem when getting URL addresses, increase the delay value.
+
+
+HOW TO RUN THIS PROGRAM ? 
+
+1- Python must be installed on your computer.
+2- Open terminal, locate to the project file folder.
+3- Download required packages with this command "pip install -r requirements.txt"
+4- Run the program with this command "python url.py [tabs_count] [delay_time]" 
+
+Example Usages:
+
+python url.py 5 1
+python url.py 3 0.2

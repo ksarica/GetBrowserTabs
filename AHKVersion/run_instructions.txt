@@ -1,0 +1,10 @@
+Make sure you have an active web browser.
+
+1- Click and run the getBrowserTabs.exe
+2- Your URL addresses will be saved to Desktop as .txt file.
+3- If you want to save it elsewhere, URL addresses also copied to the clipboard so you can paste it by CTRL + V keys.
+
+NOTE: If the URL addresses are missing or not fully received, you may need to edit .ahk script and increase the amount of delay. 
+
+* For this, you need to open the getBrowserTabs.ahk file with a text editor and increase the "Sleep 300" value in it. (Program waits 300 ms for all tabs by default)
+* In addition, instead of running the program from the .exe file, you will have to download the Autohotkey software to run the .ahk file that you have edited.
