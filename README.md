@@ -6,10 +6,11 @@ My purpose for making this program is that sometimes you have too many tabs whil
  
 ## AutoHotkey (AHK) Version
 
-Make sure you have an active web browser.
+Make sure you have an active web browser.  
+Supported Browsers: Microsoft Edge, Google Chrome, Opera Browser, Mozilla Firefox
 
-1- Click and run the getBrowserTabs.exe
-2- Your URL addresses will be saved to Desktop as .txt file.
+1- Click and run the getBrowserTabs.exe  
+2- Your URL addresses will be saved to Desktop as .txt file.  
 3- If you want to save it elsewhere, URL addresses also copied to the clipboard so you can paste it by CTRL + V keys.
 
 NOTE: If the URL addresses are missing or not fully received, you may need to edit .ahk script and increase the amount of delay. 
